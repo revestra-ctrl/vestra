@@ -1,0 +1,30 @@
+#Project Title  Task Organizer/Calendar
+
+##Project Description 
+An application that can help users organize tasks in a month, letting the users set  and change deadlines, categorize and prioritize tasks. Also has features like pop-up reminders the day before the deadline.
+
+##Project Features
+- Gets the current week of the month
+- Lets users input custom activities into each of the dates and the exact time of schedule (project-making, study sessions)
+- Lets users input and reschedule the exact time of deadlines
+- Has pop-up reminders when it is the scheduled time of an activity
+- Has pop-up reminders 24 hours before a deadline by default (users can change this feature to their preference, ex: 12 hours before deadline)
+- Done button for each task
+
+##How to Run Program
+1. Have python installed
+2. Download the application
+3. Run
+
+##Project Inputs and Outputs
+Inputs:
+- Dates and Time of tasks
+- Subjects
+- Task/Activity name
+- Deadlines
+Outputs:
+- Tasks accomplished
+- Pop-up reminders
+
+##Contributors
+- Rania Emmanuelle Vestra (coder)
